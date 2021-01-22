@@ -1,0 +1,29 @@
+body {
+  background: rgb(221, 216, 216);
+  padding: 25px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar{
+  background: rgb(16, 17, 26);
+  color: white;
+  border-bottom: 3px solid red;
+}
+
+.navbar:hover{
+  background: rgb(3, 4, 14);
+  color: white;
+  border-bottom: 3px solid rgb(255, 174, 0);
+}
+
+#formEntrerSommet{
+  display: none;
+}
+
+#sommetController{
+  display: block;
+}
